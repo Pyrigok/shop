@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+*.rdb
+*.json
+static/
+shop_venv/
+help_text.txt
